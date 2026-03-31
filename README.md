@@ -1,5 +1,23 @@
 # Crunchy Corner Business Analysis
 
+## Dashboard Preview
+Below are key snapshots from the Power BI dashboard.
+
+📥 For full interactive view, download the PDF file from this repository.
+
+## Dashboard Screenshots
+
+### Overview
+![Overview](dashboard-overview.png)
+
+### Cost & Expense Analysis
+![Cost](cost-and-expense-analysis.png)
+
+### Budget vs Actual
+![Budget](budget-vs-actual.png)
+
+---
+
 ## Project Overview
 This project analyzes 5 years of business data (Actual vs Budget) to evaluate revenue, cost, and profitability across categories and locations.
 
